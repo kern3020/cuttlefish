@@ -11,12 +11,11 @@ Books
 MOOCs
 =====
 
-* [Coursera bioinformatics specailization]
-(https://www.coursera.org/specializations/bioinformatics) There is a
+* [Coursera bioinformatics specailization](https://www.coursera.org/specializations/bioinformatics) There is a
 two volume, companion book called Bioinformatics Algorithms(see book
 section). [Many of the video lessons are available on youtube](https://www.youtube.com/channel/UCKSUVRs2N2FdDNvQoRWKhoQ)
 
-* [Coursera genomic data specailization] (https://www.coursera.org/specializations/genomic-data-science)
+* [Coursera genomic data specailization](https://www.coursera.org/specializations/genomic-data-science)
 
 
 * If you’re more statistically minded, consider the courses by [Rafael
