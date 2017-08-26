@@ -12,6 +12,6 @@ life science.
 Documentation
 =============
 
-We are just beginning. Initially, this we start with documention about
+We are just beginning. Initially, this will start with documention about
 available data, tools, etc.
 
