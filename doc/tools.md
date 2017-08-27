@@ -11,6 +11,10 @@ RNA
 Tools:
 * [QUAST - Quality Assessment Tool for Genome Assemblies](http://quast.sourceforge.net/)
 
+Project:
+* [Assemblathon](http://assemblathon.org/) was a project to evalute genome assemblers.
+* [GAGE - Genome Assembly Gold-Standard Evaluations](http://gage.cbcb.umd.edu/) a similar projec to Assemblathon. 
+
 NCBI
 ====
 
